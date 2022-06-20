@@ -10,7 +10,7 @@ const addTodo = () => {
   list.value.push(inputData.value.trim());
   inputData.value = "";
 };
-
+/* Git Test */
 /* todoIndex에서 우리가 지우려고 하는 index 빼고 다른 놈들을 통과시켜서 list에 도로 처 넣어라 */
 const removeTodoAt = (todoIndex) => {
   list.value = list.value.filter((value, index) => index !== todoIndex);
