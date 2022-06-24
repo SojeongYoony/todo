@@ -60,10 +60,12 @@
     <li>E2E : End to End testing </li>  
     <li>cd : change Directory </li>  
     <li>
-        <summary><b>package.json "browserlist"</b></summary>
-        <li> >1% : 전세계 사용자가 최소 1% 이상인 browser에만 실행</li>
-        <li> Last 2 versions : 최근 두 개 version만 지원</li>
-        <li> not ie 11 : IE 11에는 지원 안함</li>
+        <details>
+            <summary><b>package.json "browserlist"</b></summary>
+            <li> >1% : 전세계 사용자가 최소 1% 이상인 browser에만 실행</li>
+            <li> Last 2 versions : 최근 두 개 version만 지원</li>
+            <li> not ie 11 : IE 11에는 지원 안함</li>
+        </details>
     </li>  
 
 <br>
