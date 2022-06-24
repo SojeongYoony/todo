@@ -43,3 +43,18 @@
 </div>
 </details>
 </details>
+
+<br>
+
+<details>
+<summary><b>2022-06-24</b></summary>
+<div markdown="1">     
+<h3>npm 내용</h3>
+<li>vue : JS 프레임워크</li>  
+<li>vue-loader : Vue 파일을 JS파일로 변환해준다.</li>  
+<li>vue-template-compiler : Vue 파일을 JS로 변환해준다.</li>  
+<li>webpack : 파일을 일부 변형하여 코드를 전달하고 하나로 묶어주는 도구.</li>  
+<li>webpack-cli : webpack 명령을 실행하는 사용하는 cli. </li>  
+<li>babel-loader : 우리의 코드를 브라우저에 맞는 코드로 변환해준다.  </li>  
+</div>
+</details>
