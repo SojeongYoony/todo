@@ -43,7 +43,7 @@
 </div>
 </details>
 </details>
-
+<hr></hr>
 <details>
 <summary><b>2022-06-24</b></summary>
 
@@ -73,9 +73,15 @@
 
 </div>
 </details>
+``` html
 
-<br>
+// cmd 명령어 복습
+mkdir(make Directory) : folder 만들기 
+code . : VSCode 실행
+cd ../ : 하위 폴더로 이동
+cd 경로 : 해당 경로의 폴더로 이동
 
-<h3></h3>
+
+```
 </div>
 </details>
