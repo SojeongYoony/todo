@@ -71,9 +71,6 @@
     </ul>
 </details>
 
-</div>
-</details>
-
 ``` html
 
 // cmd 명령어 복습
@@ -85,6 +82,7 @@ cls : terminal 깨끗하게 지우기
 ctrl + C : 실행 종료 
 
 ```
-
+</div>
+</details>
 </div>
 </details>
