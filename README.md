@@ -70,10 +70,11 @@
         <li> not ie 11 : IE 11에는 지원 안함</li>
     </ul>
 </details>
+<details>
+<summary><b>cmd 명령어 복습</b></summary>
+<div>
 
 ``` html
-
-// cmd 명령어 복습
 mkdir(make Directory) : folder 만들기 
 code . : VSCode 실행
 cd ../ : 하위 폴더로 이동
@@ -83,6 +84,10 @@ ctrl + C : 실행 종료
 
 ```
 </div>
+
+</details>
+</div>
+
 </details>
 </div>
 </details>
