@@ -44,13 +44,13 @@
 </details>
 </details>
 
-<br>
-
 <details>
 <summary><b>2022-06-24</b></summary>
+
 <div markdown="1"> 
 <details>
     <summary><b>npm 내용</b></summary>
+    <ul>
         <li>vue : JS 프레임워크</li>  
         <li>vue-loader : Vue 파일을 JS파일로 변환해준다.</li>  
         <li>vue-template-compiler : Vue 파일을 JS로 변환해준다.</li>  
@@ -60,13 +60,15 @@
         <li>Linter/formatter : coding convention </li>  
         <li>E2E : End to End testing </li>  
         <li>cd : change Directory </li>
+    </ul>
 </details>
-
 <details>
     <summary><b>package.json "browserlist"</b></summary>
-    <li> >1% : 전세계 사용자가 최소 1% 이상인 browser에만 실행</li>
-    <li> Last 2 versions : 최근 두 개 version만 지원</li>
-    <li> not ie 11 : IE 11에는 지원 안함</li>
+    <ul>
+        <li> >1% : 전세계 사용자가 최소 1% 이상인 browser에만 실행</li>
+        <li> Last 2 versions : 최근 두 개 version만 지원</li>
+        <li> not ie 11 : IE 11에는 지원 안함</li>
+    </ul>
 </details>
 
 </div>
