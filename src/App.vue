@@ -50,6 +50,10 @@ const removeTodoAt = (todoIndex) => {
       <HelloWorld msg="You did it!" />
 
       <nav>
+        
+        // 주소가 바뀌면서 마치 페이지 이동이 된 것 처럼 보인다.
+        RouterLink to="연결할 path"
+
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
@@ -59,6 +63,7 @@ const removeTodoAt = (todoIndex) => {
   <RouterView /> -->
 </template>
 
+<!-- style에 scoped 사용하면 해당 component에만 적용 됨  scoped 안쓰면 걍 전역에 적용 -->
 <style>
 * {
   margin: 0%;
