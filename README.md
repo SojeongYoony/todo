@@ -73,6 +73,7 @@
 
 </div>
 </details>
+
 ``` html
 
 // cmd 명령어 복습
@@ -83,7 +84,7 @@ cd 경로 : 해당 경로의 폴더로 이동
 cls : terminal 깨끗하게 지우기
 ctrl + C : 실행 종료 
 
-
 ```
+
 </div>
 </details>
